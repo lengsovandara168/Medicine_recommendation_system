@@ -115,25 +115,7 @@ Contributions to improve the system are welcome! To contribute:
 3. Implement your improvements or fix bugs.
 4. Submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the open-source libraries like `scikit-learn` and `flask` that made this project possible.
-- Special thanks to contributors who provide open datasets for disease diagnosis, which helped train the machine learning model.
-
-## Contact
-
-For any questions or further information, feel free to reach out:
-
-- **Email**: saima@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
-```
-
----
 
 ### Key Sections of the `README.md`:
 
