@@ -117,17 +117,3 @@ Contributions to improve the system are welcome! To contribute:
 
 
 
-### Key Sections of the `README.md`:
-
-1. **Overview**: A brief introduction to the system and its purpose.
-2. **Features**: Key functionalities of the system, explaining what it does.
-3. **Installation**: Step-by-step instructions on how to set up the project locally.
-4. **Usage**: How to run and use the system, including an example of the input/output.
-5. **Limitations**: Acknowledging the potential inaccuracies and the importance of professional consultation.
-6. **Future Improvements**: Suggestions for improving the system in the future.
-7. **Contributing**: How others can contribute to the project.
-8. **License**: Specifies the licensing for the project (MIT in this case).
-9. **Acknowledgments**: Credit to libraries and resources used.
-10. **Contact**: Information for users or collaborators to reach out.
-
-Make sure to customize the GitHub URL, email address, and any other personal or project-specific details. This README will provide clear guidance to users and developers interested in exploring or contributing to your project.
